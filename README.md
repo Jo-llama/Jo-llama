@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jo-llama
-- ⚖  Legal Engineer
+- ⚖  I'm Legal Engineer
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning ML, Deep Learning & Data Engineering
 - 💞️ I’m looking to collaborate on Deep Learning projects
